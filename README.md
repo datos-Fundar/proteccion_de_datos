@@ -1,1 +1,3 @@
-# proteccion_de_datos
+# Proteccion de datos
+
+Este repositorio es parte de la Guía Práctica de Protección de datos publicada por el Área de Datos de Fundar. El objetivo de la guía es revisar algunas consideraciones prácticas a tener en cuenta al realizar intercambios de datos o publicar datos que contienen información de carácter sensible. En este repositorio proponemos el uso de herramientas para proteger datos, que no pretenden ser exhaustivas ni completamente abarcativas. ejemplificadas en el lenguaje Python. 
