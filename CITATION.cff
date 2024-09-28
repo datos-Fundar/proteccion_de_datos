@@ -13,9 +13,10 @@ authors:
   - given-names: Paula
     family-names: Luvini
     repository-code: >-
-  https://github.com/datos-Fundar/proteccion_de_datos
+      https://github.com/datos-Fundar/proteccion_de_datos
 abstract: >-
-  Este repositorio es parte de la Guía Práctica de Protección de datos publicada por el Área de Datos de Fundar. 
+  Este repositorio es parte de la Guía Práctica de 
+  Protección de datos publicada por el Área de Datos de Fundar. 
 license: CC-BY-NC-ND-4.0
 version: '1.0'
 date-released: '2023-11-13'
