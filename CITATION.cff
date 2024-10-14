@@ -1,22 +1,18 @@
 cff-version: 1.2.0
-title: >-
-  Proteccion de datos
-message: >-
-  If you use this content, please cite it using the metadata
-  from this file.
-type: code
-authors:
-  - name: Fundar
-    website: 'https://fund.ar/'
-    country: AR
-    city: Buenos Aires
-  - given-names: Paula
-    family-names: Luvini
-    repository-code: >-
-      https://github.com/datos-Fundar/proteccion_de_datos
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: software
+date-released: "2023-11-13"
+title: "Protección de datos"
+
 abstract: >-
-  Este repositorio es parte de la Guía Práctica de 
-  Protección de datos publicada por el Área de Datos de Fundar. 
-license: CC-BY-NC-ND-4.0
-version: '1.0'
-date-released: '2023-11-13'
+  Este repositorio forma parte de la Guía Práctica de
+  Protección de datos publicada por el Área de Datos de Fundar
+
+repository-code: "https://github.com/datos-Fundar/proteccion_de_datos"
+url: "https://fund.ar/publicacion/guia-practica-para-la-anonimizacion-de-datos/"
+
+authors:
+  - given-names: "Paula"
+    family-names: "Luvini"
+    affiliation: "Fundar"
